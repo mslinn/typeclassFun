@@ -1,0 +1,1 @@
+My interpretation of the code examples from Seth Tisue's [NE Scala 2012 presentation on the Typeclass Pattern](https://speakerdeck.com/marakana/ne-scala-2012-the-typeclass-pattern-an-alternative-to-inheritance).
